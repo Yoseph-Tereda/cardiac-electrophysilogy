@@ -41,5 +41,5 @@ This repository contains Python code for simulating **spiral waves** in a 2D car
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Yoseph-Tereda/spiral-wave-simulation.git
-cd spiral-wave-simulation
+git clone https://github.com/Yoseph-Tereda/cardiac-electrophysilogy.git
+cd cardiac-electrophysilogy
