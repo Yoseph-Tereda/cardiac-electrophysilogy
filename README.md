@@ -43,3 +43,17 @@ This repository contains Python code for simulating **spiral waves** in a 2D car
 ```bash
 git clone https://github.com/Yoseph-Tereda/cardiac-electrophysilogy.git
 cd cardiac-electrophysilogy
+
+## Documentation & Thesis
+
+For a complete and detailed description of the mathematical model, numerical methods, finite element formulation, parameter choices, and validation results, see my master’s thesis:
+
+[**Fast Simulations of Models of Cardiac Electrophysiology – Master Thesis (PDF)**](https://harvest.usask.ca/server/api/core/bitstreams/ffd11c9f-73ac-4afc-a722-25aa67f042ec/content)
+
+The thesis includes:
+
+- Full derivation of the reaction–diffusion system  
+- Finite element spatial discretization (mass and stiffness matrices)  
+- Stability analysis and time-step estimation  
+- Details on the Forward Euler integration scheme  
+- Examples of simulation results and analysis of spiral‑wave behavior  
