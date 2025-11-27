@@ -14,20 +14,18 @@ Both modules follow the same numerical framework but differ in spatial dimension
 1. Repository Structure
 
 cardiac-electrophysiology/
-│
-├── spiral_wave/        # 2D spiral wave simulation
-│   ├── spiral_data.py
-│   ├── spiral_simulation.py
-│   ├── spiral_wave_main.py
-│   └── README.md
-│
-├── scroll_wave/        # 3D scroll wave simulation
-│   ├── scroll_data.py
-│   ├── scroll_simulation.py
-│   ├── scroll_wave_main.py
-│   └── README.md
-│
-└── README.md           # Combined README
+├── spiral_wave/ # 2D spiral wave simulation
+│ ├── spiral_data.py
+│ ├── spiral_simulation.py
+│ ├── spiral_wave_main.py
+│ └── README.md
+├── scroll_wave/ # 3D scroll wave simulation
+│ ├── scroll_data.py
+│ ├── scroll_simulation.py
+│ ├── scroll_wave_main.py
+│ └── README.md
+└── README.md # Combined README
+
 
 --------------------------------------------------------------------------------
 
