@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
-from PythonProject.spiral_simulation import  SpiralSimulation  # Import the simulation class
+from spiral_simulation import  SpiralSimulation  # Import the simulation class
 from spiral_data import M_matrix, K_matrix  # Import matrices for spatial discretization
 
 
